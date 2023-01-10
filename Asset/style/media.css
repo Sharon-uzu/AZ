@@ -378,6 +378,14 @@
         width: 35%;
        
     }  
+     .cart .new{
+        width: 80%;  
+    }
+    .cart .newww{
+        margin-left: 0;
+        margin: auto;
+        margin-top: 3rem;
+     }
     
     /* checkout */
 
@@ -741,7 +749,7 @@
 
 
 
-@media screen and (max-width:300px) {
+@media screen and (max-width:320px) {
     .live-d{
         margin-bottom: 3rem;
     }
